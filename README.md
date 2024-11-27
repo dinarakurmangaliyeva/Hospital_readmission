@@ -1,4 +1,4 @@
-# Hospital Readmission Prediction Project
+# Hospital Readmission Prediction 
 
 This repository contains an academic machine learning project developed by []. 
 
