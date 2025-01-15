@@ -2,6 +2,9 @@
 
 This repository contains an academic machine learning project developed by []. 
 
+## Overview
+This repository contains all the necessary code, data preprocessing steps, and model development for predicting hospital readmissions. It focuses on leveraging tree-based methods, kernel-based methods, and deep learning approaches to predict hospital readmissions
+
 ## Installation
 
 To install the required packages, run:
