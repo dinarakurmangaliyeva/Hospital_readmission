@@ -10,7 +10,7 @@ This repository contains all the necessary code, data preprocessing steps, and m
 To install the required packages, run:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## File Descriptions
 
