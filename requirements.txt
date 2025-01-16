@@ -1,0 +1,26 @@
+# Core Libraries
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.6.2
+seaborn==0.12.1
+
+# Scikit-learn
+scikit-learn==1.2.2
+
+# Imbalanced Learn
+imbalanced-learn==0.10.1
+
+# XGBoost
+xgboost==1.7.5
+
+# TensorFlow (para Deep Learning)
+tensorflow==2.11.0
+
+# Pytorch TabNet
+pytorch-tabnet==3.2.1
+
+# Hyperopt for Bayesian Optimization
+hyperopt==0.2.7
+
+# Miscellaneous
+scipy==1.9.3
