@@ -22,6 +22,14 @@ preprocessing.ipynb: Notebook containing all preprocessing steps and train-test 
 
 trees.ipynb: Notebook implementing tree-based models (e.g., Decision Trees, Random Forest, XGBoost) and generating results.
 
+kernel_dl.ipynb: Notebook implementing kernel methods and deep learning models for analysis and results.
+
 data/: Folder containing train-test data (created during preprocessing).
 
 README.md: This file.
+
+## Train and Evaluate Models
+
+Run the trees.ipynb
+Run the kernel_dl.ipynb
+
